@@ -1,0 +1,1 @@
+{"rustc":17017340741842641033,"features":"[]","target":14017557803926322752,"profile":2574335274271406459,"path":1036222786711178230,"deps":[[2013140466290759713,"rand",false,17307147796788440645]],"local":[{"CheckDepInfo":{"dep_info":"release\\.fingerprint\\card-game-d42b909f7d42797a\\dep-bin-card_game-d42b909f7d42797a"}}],"rustflags":[],"metadata":13180465449352797181}
