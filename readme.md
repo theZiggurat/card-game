@@ -1,10 +1,13 @@
 # card-game.rs
 
 Run pre-built binaries:
-> ./target/release/card-game.exe
+
+    - ./target/release/card-game.exe
 
 Build from source:
+    
     - Download rustup: https://www.rust-lang.org/tools/install
+    
     - In project root: cargo build --release
         - Build and run: cargo run --release
 
